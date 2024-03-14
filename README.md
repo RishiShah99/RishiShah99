@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RishiShah99
+👋 Hi, I’m @RishiShah99
 - 👀 I’m interested in machine learning, virtual/augmented reality, and computer vision in general
 - 🌱 I’m currently learning Vuforia and PyTorch. 
 <!---
