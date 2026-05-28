@@ -1,5 +1,10 @@
-## Hi there 👋  
+## Hi there 
 
 ### About Me  
-* I'm **Rishi Shah**, a Schulich Leader Scholar and Engineering student at **McMaster University**, recognized among Canada's top 50 entrepreneurial engineers.  
-* I’m passionate about **machine learning, computer vision, and robotics**, and I love building systems that blend intelligence with engineering — from neural networks to embedded devices.  
+* I'm **Rishi Shah**, a Schulich Leader at McMaster University.
+  
+### What I'm working on: 
+* Medical Technology: Developed ML Models and Augmented Reality systems alongside Synaptive Medical and Robarts Research Institute
+* Currently working on machine learning algorithms for medical embedded devices to reduce miscarriages globally at E3A Healthcare
+
+Follow to see my progress towards a safer world. 
