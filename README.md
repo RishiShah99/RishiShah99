@@ -2,9 +2,10 @@
 
 ### About Me  
 * I'm **Rishi Shah**, a Schulich Leader at McMaster University.
-  
-### My work: 
-* Medical Technology: Developed ML Models and Augmented Reality systems alongside Synaptive Medical and Robarts Research Institute to reduce surgical errors
-* Currently working on machine learning algorithms for medical embedded devices to reduce miscarriages globally at E3A Healthcare
 
-Follow to see my progress towards making a safer world. 
+### My Work
+* I've developed the supervised and reasoning layers of the current SOTA model for labour prediction at E3A Healthcare.
+* Engineered the first native Blackwell (tcgen05) training backward for the gated-linear-recurrence family
+* Developed a training method (RDR) that almost doubles a latent world model's forecast horizon
+
+Reach out to me at rishishah994@gmail.com for any inquiries/collaborations. 
